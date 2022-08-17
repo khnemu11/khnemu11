@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khnemu11)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
   <img alt ="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Oracle&logoColor=white"> 
