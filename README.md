@@ -34,4 +34,4 @@
   <img alt ="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
 </div>
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khnemu11&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khnemu11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
