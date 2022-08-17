@@ -1,21 +1,7 @@
-### Hi there 👋
-<!--
-**khnemu11/khnemu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khnemu11)](https://github.com/anuraghazra/github-readme-stats)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kim%20SuHyun&fontSize=90)
 
 <h1>📚 STACKS</h1></div>
 <div align=center>
@@ -47,5 +33,5 @@ Here are some ideas to get you started:
   <img alt ="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img alt ="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
 </div>
-
-
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khnemu11&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khnemu11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
