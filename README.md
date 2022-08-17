@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 </div>
 <div align=center>
   <img alt ="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-  <img alt ="egovframework" src="https://img.shields.io/badge/egovframework-007396?style=for-the-badge&logo=egovframework&logoColor=white"> 
+  <img alt ="struts2" src="https://img.shields.io/badge/struts2-D22128?style=for-the-badge&logo=struts2&logoColor=white"> 
+  <img alt ="egovframework" src="https://img.shields.io/badge/egovframework-007396?style=for-the-badge&logo=egovframework&logoColor=white">
 </div>
 
 
