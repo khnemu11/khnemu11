@@ -11,6 +11,15 @@
    <a href="mailto:khnemu11@gmail.com">
     <img alt ="email" src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
+  <a href="https://www.instagram.com/suhyeon8277/">
+    <img alt ="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+   <a href="https://www.instagram.com/suhyeon8277/">
+    <img alt ="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100005031810680">
+    <img alt ="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
+  </a>
 </div>
 <br>
 <br>
