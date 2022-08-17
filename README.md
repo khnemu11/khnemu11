@@ -55,6 +55,9 @@
   <img alt ="Apache Maven" src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white"> 
   <img alt ="Gradle" src="https://img.shields.io/badge/Gradle-2303A?style=for-the-badge&logo=Gradle&logoColor=white"> 
 </div>
+<div align=center>
+  <img alt ="spss" src="https://img.shields.io/badge/spss-809CC9">
+</div>
 <br>
 <div align=center>
   <img alt ="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khnemu11&layout=compact">
