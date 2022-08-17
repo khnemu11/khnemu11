@@ -39,11 +39,6 @@ Here are some ideas to get you started:
   <img alt ="egovframework" src="https://img.shields.io/badge/egovframework-007396?style=for-the-badge&logo=egovframework&logoColor=white">
 </div>
 <div align=center>
-  <img alt ="Subversion" src="https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=white">
-  <img alt ="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img alt ="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
-</div>
-<div align=center>
   <img alt ="SVN" src="https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=white">
   <img alt ="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img alt ="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
