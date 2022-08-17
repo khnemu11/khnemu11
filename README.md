@@ -1,5 +1,5 @@
 <div align=center>
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SuHyun%20Kim&fontSize=70">
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SuHyun%20Kim&fontSize=50">
 </div>
 <div align=center>
   <h2>📞 Contact</h2>
