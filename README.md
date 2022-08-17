@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
-  <img alt ="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img alt ="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Oracle&logoColor=white"> 
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
