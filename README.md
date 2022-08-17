@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align=center>
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khnemu11)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-<div align=center><h1>📚 STACKS</h1></div>
+><h1>📚 STACKS</h1></div>
 <div align=center>
   <img alt ="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Oracle&logoColor=white"> 
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
