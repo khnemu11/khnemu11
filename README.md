@@ -1,9 +1,22 @@
-
-
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kim%20SuHyun&fontSize=90)
-
-<h1>📚 STACKS</h1></div>
+<div align=center>
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SuHyun%20Kim&fontSize=70">
+</div>
+<div align=center>
+  <h2>📞 Contact</h2>
+</div>
+<div align=center>
+  <a href="https://blog.naver.com/khnemu">
+    <img alt ="blog" src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+  </a>
+   <a href="mailto:khnemu11@gmail.com">
+    <img alt ="email" src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+</div>
+<br>
+<br>
+<div align=center>
+<h2>📚 STACKS</h2>
+</div>
 <div align=center>
   <img alt ="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Oracle&logoColor=white"> 
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
@@ -33,8 +46,17 @@
   <img alt ="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img alt ="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
 </div>
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khnemu11&repo=khnemu11&theme=tokyonight" />
+<br>
+<div align=center>
+  <img alt ="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khnemu11&layout=compact">
+<div>
+<br>
+<br>
+<div align=center>
+  <h2>👑 Github Stats</h2>
+</div>
+<div align=center>
+  <img alt ="rank" src="https://github-readme-stats.vercel.app/api?username=khnemu11&theme=tokyonight">
+</div>
+<br>
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khnemu11&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khnemu11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
