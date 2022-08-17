@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 <div align=center>
   <img alt ="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-  <img alt ="egovframework" src="https://way-be-developer.tistory.com/13?style=for-the-badge&logo=MySQL&logoColor=white"> 
+  <img alt ="egovframework" src="https://img.shields.io/badge/egovframework-007396?style=for-the-badge&logo=egovframework&logoColor=white"> 
 </div>
 
 
