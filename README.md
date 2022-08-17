@@ -33,7 +33,7 @@
   <img alt ="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img alt ="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
 </div>
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khnemu11&repo=github-readme-stats&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khnemu11&repo=khnemu11&theme=tokyonight" />
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khnemu11&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
