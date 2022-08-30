@@ -74,9 +74,9 @@
 <div align=left>
   <h2>✨ Repository </h2>
   <ul>
-    <li><a href="https://github.com/khnemu11/starbucksCloneSpring">Stackbucks clone coding with CRUD</a></li>
     <li><a href="https://github.com/khnemu11/TFT-Helper">TFT Helper Application</a></li>
     <li><a href="https://github.com/khnemu11/totalCodingTest">programming solve</a></li>
+    <li><a href="https://github.com/khnemu11/starbucksCloneSpring">Stackbucks clone coding with CRUD</a></li>
     <li><a href="https://github.com/khnemu11/PohangFoodStore">Pohang food store api</a></li>
   </ul>
 </div>
