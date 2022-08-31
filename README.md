@@ -1,23 +1,7 @@
 <div align=center>
   <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SuHyun%20Kim&fontSize=50">
 </div>
-<div align=left>
-  <h2>📞 Contact</h2>
-</div>
-<div align=left>
-  <a href="https://blog.naver.com/khnemu">
-    <img alt ="blog" src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
-  </a>
-   <a href="mailto:khnemu11@gmail.com">
-    <img alt ="email" src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/suhyeon8277/">
-    <img alt ="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100005031810680">
-    <img alt ="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
-  </a>
-</div>
+
 <br>
 <br>
 <div align=left>
@@ -87,4 +71,23 @@
     <li><a href="https://github.com/khnemu11/starbucksCloneSpring">Stackbucks clone coding with CRUD</a></li>
     <li><a href="https://github.com/khnemu11/PohangFoodStore">Pohang food store api</a></li>
   </ul>
+</div>
+  <br>
+  <br>
+  <div align=left>
+  <h2>📞 Contact</h2>
+</div>
+<div align=left>
+  <a href="https://blog.naver.com/khnemu">
+    <img alt ="blog" src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+  </a>
+   <a href="mailto:khnemu11@gmail.com">
+    <img alt ="email" src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/suhyeon8277/">
+    <img alt ="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100005031810680">
+    <img alt ="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
+  </a>
 </div>
