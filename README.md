@@ -71,7 +71,9 @@
   <img alt ="rank" src="https://github-readme-stats.vercel.app/api?username=khnemu11&theme=tokyonight">
   
 </div>
-
+<div align=left>
+  <h2>👑 BOJ Stats</h2>
+</div>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=khnemu)](https://solved.ac/khnemu)
 
