@@ -71,7 +71,10 @@
   <img alt ="rank" src="https://github-readme-stats.vercel.app/api?username=khnemu11&theme=tokyonight">
   
 </div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khnemu)](https://solved.ac/khnemu/)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=khnemu)](https://solved.ac/khnemu)
+
 <br>
 <div align=left>
   <h2>✨ Repository </h2>
