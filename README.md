@@ -63,6 +63,10 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=khnemu)](https://solved.ac/khnemu)
 
 <br>
+  <div align=left>
+  <h2>✨ License</h2>
+  <li>ISQTB CTFL </li>
+</div>
 <div align=left>
   <h2>✨ Repository </h2>
   <ul>
