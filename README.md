@@ -65,7 +65,9 @@
 <br>
   <div align=left>
   <h2>✨ License</h2>
-  <li>ISQTB CTFL (2022-09-05)</li>
+    <ul>
+    <li>ISQTB CTFL (2022-09-05)</li>
+    </ul>
 </div>
 <div align=left>
   <h2>✨ Repository </h2>
