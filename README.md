@@ -37,7 +37,6 @@
   <img alt ="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img alt ="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
   <img alt ="Apache Maven" src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white"> 
-  <img alt ="Gradle" src="https://img.shields.io/badge/Gradle-2303A?style=for-the-badge&logo=Gradle&logoColor=white"> 
 </div>
 <div align=left>
   <img alt ="spss" src="https://img.shields.io/badge/spss-052FAD?style=for-the-badge&logo=IBM&logoColor=white">
