@@ -74,7 +74,6 @@
     <li><a href="https://github.com/khnemu11/TFT-Helper">TFT Helper Application</a></li>
     <li><a href="https://github.com/khnemu11/totalCodingTest">programming solve</a></li>
     <li><a href="https://github.com/khnemu11/starbucksCloneSpring">Stackbucks clone coding with CRUD</a></li>
-    <li><a href="https://github.com/khnemu11/PohangFoodStore">Pohang food store api</a></li>
     <li><b>Web Watcher with Struts2 -> </b><a href="https://github.com/khnemu11/egovWebWatcherWtihcmmn"><b> Web Watcher with Egovframework</b></a></li>
   </ul>
 </div>
