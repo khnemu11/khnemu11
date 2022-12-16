@@ -93,7 +93,4 @@
   <a href="https://www.instagram.com/suhyeon8277/">
     <img alt ="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100005031810680">
-    <img alt ="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
-  </a>
 </div>
