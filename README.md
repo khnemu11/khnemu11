@@ -64,6 +64,7 @@
   <div align=left>
   <h2>✨ License/Certifcate</h2>
     <ul>
+    <li>TOPCIT 수준 3 (2022-05-22)</li>
     <li>ISQTB CTFL (2022-09-05)</li>
     <li>전자정부 표준프레임워크 및 공통컴포넌트 개발자 실무 온라인 교육 과정 수료(2022-08-01 ~ 2022-09-01)</li>
     <li>OPIc IM3 (2022-12-02)</li>
