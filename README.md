@@ -10,8 +10,6 @@
 <div align=left>
   <img alt ="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Oracle&logoColor=white"> 
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
   <img alt="dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>
 </div>
 <div align=left>
