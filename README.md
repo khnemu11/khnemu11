@@ -83,9 +83,6 @@
   <h2>📞 Contact</h2>
 </div>
 <div align=left>
-  <a href="https://blog.naver.com/khnemu">
-    <img alt ="blog" src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
-  </a>
    <a href="mailto:khnemu11@gmail.com">
     <img alt ="email" src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
