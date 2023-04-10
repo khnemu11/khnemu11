@@ -76,7 +76,7 @@
     <li><a href="https://github.com/khnemu11/TFT-Helper">TFT Helper 어플리케이션</a>(2021.11.18 ~ 2021.12.11)</li>
     <li><a href="https://github.com/khnemu11/totalCodingTest">알고리즘 풀이</a>(2022-08-17 ~ )</li>
     <li><a href="https://github.com/khnemu11/starbucksCloneSpring">메뉴 관리가 들어간 스타벅스 클론 코딩</a>(2022-07-14 ~ 2022-07-30)</li>
-    <li><b>Web Watcher with Struts2 -> </b><a href="https://github.com/khnemu11/egovWebWatcherWtihcmmn"><b>Web Watcher 전자정부 프레임워크 마이그레이션 프로젝트</b></a></li>
+    <li>Web Watcher with Struts2 -><a href="https://github.com/khnemu11/egovWebWatcherWtihcmmn">Web Watcher 전자정부 프레임워크 마이그레이션 프로젝트</a>(2021-08-01 ~ 2022-12-23)</li>
   </ul>
 </div>
   <br>
