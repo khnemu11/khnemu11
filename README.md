@@ -8,35 +8,51 @@
 <h2>📚 STUDY</h2>
 </div>
 <div align=left>
+  <h3>Language</h3>
   <img alt ="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Oracle&logoColor=white"> 
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
   <img alt="dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>
 </div>
 <div align=left>
+  <h3>Front-end</h3>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+  <img alt="WebRTC" src ="https://img.shields.io/badge/webrtc-333333.svg?&style=for-the-badge&logo=webrtc&logoColor=white"/>
   <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/>
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 </div>
 <div align=left>
+  <h3>DataBase</h3>
   <img alt ="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> 
   <img alt ="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
   <img alt ="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
-  <img alt ="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> 
+  <img alt ="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+   <img alt ="Redis" src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
 </div>
 <div align=left>
+  <h3>Back-end</h3>
   <img alt ="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img alt ="springsecurity" src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img alt ="springboot" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img alt ="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   <img alt ="struts2" src="https://img.shields.io/badge/struts2-D22128?style=for-the-badge&logo=Apache&logoColor=white"> 
   <img alt ="egovframework" src="https://img.shields.io/badge/egovframework-007396?style=for-the-badge&logo=egovframework&logoColor=white">
+  <img alt ="rabbitmq" src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
 </div>
 <div align=left>
+  <h3>ETC</h3>
+  <img alt ="jenkins" src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img alt ="docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img alt ="SVN" src="https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=white">
-  <img alt ="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img alt ="Apache Maven" src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white"> 
-</div>
-<div align=left>
   <img alt ="spss" src="https://img.shields.io/badge/spss-052FAD?style=for-the-badge&logo=IBM&logoColor=white">
+  <img alt ="redmine" src="https://img.shields.io/badge/redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white">
+  <img alt ="jira" src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
+    <img alt ="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img alt ="gitlab" src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img alt ="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt ="mattermost" src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
+  
 </div>
 <br>
 <div align=left>
