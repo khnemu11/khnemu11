@@ -23,14 +23,6 @@
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 </div>
 <div align=left>
-  <h3>DataBase</h3>
-  <img alt ="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> 
-  <img alt ="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
-  <img alt ="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
-  <img alt ="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-   <img alt ="Redis" src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
-</div>
-<div align=left>
   <h3>Back-end</h3>
   <img alt ="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img alt ="springsecurity" src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
@@ -39,6 +31,15 @@
   <img alt ="struts2" src="https://img.shields.io/badge/struts2-D22128?style=for-the-badge&logo=Apache&logoColor=white"> 
   <img alt ="egovframework" src="https://img.shields.io/badge/egovframework-007396?style=for-the-badge&logo=egovframework&logoColor=white">
   <img alt ="rabbitmq" src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+</div>
+<div align=left>
+  <h3>DataBase</h3>
+  <img alt ="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> 
+  <img alt ="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+  <img alt ="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+  <img alt ="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+   <img alt ="Redis" src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+     <img alt ="mongodb" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> 
 </div>
 <div align=left>
   <h3>ETC</h3>
