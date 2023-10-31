@@ -67,6 +67,9 @@
     <li>전자정부 표준프레임워크 및 공통컴포넌트 개발자 실무 온라인 교육 과정 수료(2022-08-01 ~ 2022-09-01)</li>
     <li>OPIc IM3 (2022-12-02)</li>
     <li>SAFFY 9기 구미 캠퍼스(2022-01-04 ~ )</li>
+    <li>정보처리기사(2023-09-11)</li>
+    <li>SAFFY 9기 특화프로젝트 최우수상(2023-10-06)</li>
+    
     </ul>
 </div>
 <div align=left>
@@ -77,7 +80,9 @@
     <li><a href="https://github.com/khnemu11/totalCodingTest">알고리즘 풀이</a>(2022-08-17 ~ )</li>
     <li><a href="https://github.com/khnemu11/starbucksCloneSpring">메뉴 관리가 들어간 스타벅스 클론 코딩</a>(2022-07-14 ~ 2022-07-30)</li>
     <li>Web Watcher with Struts2 -><a href="https://github.com/khnemu11/egovWebWatcherWtihcmmn">Web Watcher 전자정부 프레임워크 마이그레이션 프로젝트</a>(2021-08-01 ~ 2022-12-23)</li>
-     <li><a href="https://github.com/khnemu11/MyTrip">SSAFY 여행 플래너</a>(2023-05 ~ 2023-06)</li>
+    <li><a href="https://github.com/khnemu11/MyTrip">여행 플래너 - MyTrip </a>(2023-05 ~ 2023-06)</li>
+    <li><a href="https://github.com/khnemu11/withview">화상 채팅 서비스 - WithView</a>(2023-06 ~ 2023-08)</li>
+    <li><a href="https://github.com/khnemu11/inbest">모의 투자 서비스 - InBest</a>(2023-08 ~ 2023-10)</li>
   </ul>
 </div>
   <br>
