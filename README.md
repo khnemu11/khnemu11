@@ -11,6 +11,7 @@
    <img alt ="springboot" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
 <br>
+<br>
 <div align=left>
   <img alt ="langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=khnemu11&layout=compact">
 <div>
@@ -84,6 +85,8 @@
       <li>SAFFY 9기 특화프로젝트 최우수상 (2023-10-06)</li>
     </ul>
 </div>
+<br>
+<br>
 <div align=left>
   <h2>✨ Repository </h2>
   <ul>
@@ -97,6 +100,7 @@
     <li><a href="https://github.com/khnemu11/inbest">모의 투자 서비스 - InBest</a>(2023-08 ~ 2023-10)</li>
   </ul>
 </div>
+<br>
   <br>
   <div align=left>
   <h2>📞 Contact</h2>
@@ -109,6 +113,8 @@
     <img alt ="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 </div>
+<br>
+<br>
 <div align=left>
   <h2>👑 BOJ Stats</h2>
 </div>
