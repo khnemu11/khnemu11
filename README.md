@@ -5,17 +5,25 @@
 <br>
 <br>
 <div align=left>
-<h2>📚 STUDY</h2>
+<h2>👍 주력 언어/기술</h2>
+   <img alt ="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Oracle&logoColor=white"> 
+   <img alt ="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
+   <img alt ="springboot" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+</div>
+<br>
+<div align=left>
+<h2>📚 학습 기술</h2>
 </div>
 <div align=left>
-  <h3>Language</h3>
-  <img alt ="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Oracle&logoColor=white"> 
-  <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-  <img alt="dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>
+  <h3>언어</h3>
+  <img alt = "java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Oracle&logoColor=white"> 
+  <img alt ="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
+  <img alt = "C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+  <img alt = "dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>
+  <img alt ="python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 </div>
 <div align=left>
   <h3>Front-end</h3>
-  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img alt="WebRTC" src ="https://img.shields.io/badge/webrtc-333333.svg?&style=for-the-badge&logo=webrtc&logoColor=white"/>
   <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/>
@@ -33,27 +41,26 @@
   <img alt ="rabbitmq" src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
 </div>
 <div align=left>
-  <h3>DataBase</h3>
+  <h3>데이터베이스</h3>
   <img alt ="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> 
   <img alt ="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
   <img alt ="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
   <img alt ="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
    <img alt ="Redis" src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
-     <img alt ="mongodb" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> 
+   <img alt ="mongodb" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> 
 </div>
 <div align=left>
-  <h3>ETC</h3>
+  <h3>기타</h3>
   <img alt ="jenkins" src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
   <img alt ="docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img alt ="SVN" src="https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=white">
   <img alt ="spss" src="https://img.shields.io/badge/spss-052FAD?style=for-the-badge&logo=IBM&logoColor=white">
   <img alt ="redmine" src="https://img.shields.io/badge/redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white">
   <img alt ="jira" src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
-    <img alt ="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img alt ="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img alt ="gitlab" src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
   <img alt ="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img alt ="mattermost" src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
-  
 </div>
 <br>
 <div align=left>
@@ -61,13 +68,6 @@
 <div>
 <br>
 <br>
-<div align=left>
-  <h2>👑 Github Stats</h2>
-</div>
-<div align=left>
-  <img alt ="rank" src="https://github-readme-stats.vercel.app/api?username=khnemu11&theme=tokyonight">
-  
-</div>
 <div align=left>
   <h2>👑 BOJ Stats</h2>
 </div>
@@ -79,13 +79,14 @@
   <div align=left>
   <h2>✨ License/Certifcate</h2>
     <ul>
-    <li>TOPCIT 수준 3 (2022-05-22)</li>
-    <li>ISQTB CTFL (2022-09-05)</li>
-    <li>전자정부 표준프레임워크 및 공통컴포넌트 개발자 실무 온라인 교육 과정 수료(2022-08-01 ~ 2022-09-01)</li>
-    <li>OPIc IM3 (2022-12-02)</li>
-    <li>SAFFY 9기 구미 캠퍼스(2022-01-04 ~ )</li>
-    <li>정보처리기사(2023-09-11)</li>
-    <li>SAFFY 9기 특화프로젝트 최우수상(2023-10-06)</li>
+      <li>스마트 애플리케이션 공모전 장려상 (2021-12-03)</li>
+      <li>TOPCIT 수준 3 (2022-05-22)</li>
+      <li>ISQTB CTFL (2022-09-05)</li>
+      <li>전자정부 표준프레임워크 및 공통컴포넌트 개발자 실무 온라인 교육 과정 수료 (2022-08-01 ~ 2022-09-01)</li>
+      <li>OPIc IM3 (2022-12-02)</li>
+      <li>SAFFY 9기 구미 캠퍼스 (2022-01-04 ~ )</li>
+      <li>정보처리기사 (2023-09-11)</li>
+      <li>SAFFY 9기 특화프로젝트 최우수상 (2023-10-06)</li>
     </ul>
 </div>
 <div align=left>
