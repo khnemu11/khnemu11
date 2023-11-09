@@ -12,6 +12,10 @@
 </div>
 <br>
 <div align=left>
+  <img alt ="langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=khnemu11&layout=compact">
+<div>
+<br>
+<div align=left>
 <h2>📚 학습 기술</h2>
 </div>
 <div align=left>
@@ -63,17 +67,8 @@
   <img alt ="mattermost" src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
 </div>
 <br>
-<div align=left>
-  <img alt ="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khnemu11&layout=compact">
-<div>
 <br>
-<br>
-<div align=left>
-  <h2>👑 BOJ Stats</h2>
-</div>
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=khnemu)](https://solved.ac/khnemu)
+
 
 <br>
   <div align=left>
@@ -114,3 +109,9 @@
     <img alt ="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 </div>
+<div align=left>
+  <h2>👑 BOJ Stats</h2>
+</div>
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=khnemu)](https://solved.ac/khnemu)
