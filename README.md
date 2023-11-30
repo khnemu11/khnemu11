@@ -102,6 +102,7 @@
     <li><a href="https://github.com/khnemu11/MyTrip">여행 플래너 - MyTrip </a>(2023-05 ~ 2023-06)</li>
     <li><a href="https://github.com/khnemu11/withview">화상 채팅 서비스 - WithView</a>(2023-06 ~ 2023-08)</li>
     <li><a href="https://github.com/khnemu11/inbest">모의 투자 서비스 - InBest</a>(2023-08 ~ 2023-10)</li>
+    <li><a href="https://github.com/khnemu11/Trouble-Shot">트러블슈팅 문서 작성 보조 서비스 - Trouble Shot</a>(2023-10 ~ 2023-11)</li>
   </ul>
 </div>
 <br>
