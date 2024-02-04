@@ -119,7 +119,7 @@
   <a href="https://www.instagram.com/suhyeon8277/">
     <img alt ="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/suhyeon8277/">
+  <a href="https://khnemu.tistory.com/">
     <img alt ="instagram" src="https://img.shields.io/badge/tstory-ea5220?style=for-the-badge&logo=tstory&logoColor=white">
   </a>
 </div>
