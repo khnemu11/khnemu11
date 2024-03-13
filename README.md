@@ -3,9 +3,9 @@
 </div>
 <br>
 <div align=left>
-<!-- <h2>🙋‍♂️ 포트플리오</h2>
-  <a href="https://www.figma.com/proto/ywbGs820AvsMNgBmBouWT0/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=0-1&t=T5w2Fe1Jq9ifPHMs-0&scaling=min-zoom&page-id=0%3A1">포트폴리오 보러가기</a>
-</div> -->
+<h2>🙋‍♂️ 포트플리오</h2>
+  <a href="https://www.figma.com/proto/3Q7otodk6xEC8E4cH0X1oG/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=2-27&t=y8JqHHc4mRqJRytB-0&scaling=min-zoom&page-id=0%3A1">포트폴리오 보러가기</a>
+</div>
 <br>
 <br>
 <div align=left>
@@ -88,7 +88,7 @@
       <li>SAFFY 9기 특화프로젝트 최우수상 (2023-10-06)</li>
       <li>SAFFY 9기 자율프로젝트 우수상 (2023-12-06)</li>
       <li>SAFFY 9기 성적 우수 대구지방교육노동청장상 (2023-12-19)</li>
-      <li>SSAFY 9기 최우수 수료 (2022-01-04 ~ 2022-12-29)</li>
+      <li>SSAFY 9기 최우수 수료 (2023-01-04 ~ 2023-12-29)</li>
     </ul>
 </div>
 <br>
