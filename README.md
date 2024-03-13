@@ -79,16 +79,16 @@
   <div align=left>
   <h2>✨ License/Certifcate</h2>
     <ul>
+      <li>SSAFY 9기 최우수 수료 (2023-01-04 ~ 2023-12-29)</li>
+      <li>SAFFY 9기 성적 우수 대구지방교육노동청장상 (2023-12-19)</li>
+      <li>SAFFY 9기 자율프로젝트 우수상 (2023-12-06)</li>
+      <li>SAFFY 9기 특화프로젝트 최우수상 (2023-10-06)</li>
       <li>스마트 애플리케이션 공모전 장려상 (2021-12-03)</li>
-      <li>TOPCIT 수준 3 (2022-05-22)</li>
+      <li>정보처리기사 (2023-09-11)</li>
+      <li>OPIc IM3 (2022-12-02)</li>
       <li>ISQTB CTFL (2022-09-05)</li>
       <li>전자정부 표준프레임워크 및 공통컴포넌트 개발자 실무 온라인 교육 과정 수료 (2022-08-01 ~ 2022-09-01)</li>
-      <li>OPIc IM3 (2022-12-02)</li>
-      <li>정보처리기사 (2023-09-11)</li>
-      <li>SAFFY 9기 특화프로젝트 최우수상 (2023-10-06)</li>
-      <li>SAFFY 9기 자율프로젝트 우수상 (2023-12-06)</li>
-      <li>SAFFY 9기 성적 우수 대구지방교육노동청장상 (2023-12-19)</li>
-      <li>SSAFY 9기 최우수 수료 (2023-01-04 ~ 2023-12-29)</li>
+      <li>TOPCIT 수준 3 (2022-05-22)</li> 
     </ul>
 </div>
 <br>
@@ -96,15 +96,15 @@
 <div align=left>
   <h2>✨ Repository </h2>
   <ul>
+    <li><a href="https://github.com/khnemu11/Trouble-Shot">트러블슈팅 문서 작성 보조 서비스 - Trouble Shot</a>(2023-10 ~ 2023-11)</li>
+    <li><a href="https://github.com/khnemu11/inbest">모의 투자 서비스 - InBest</a>(2023-08 ~ 2023-10)</li>
+    <li><a href="https://github.com/khnemu11/withview">화상 채팅 서비스 - WithView</a>(2023-06 ~ 2023-08)</li>
+    <li><a href="https://github.com/khnemu11/MyTrip">여행 플래너 - MyTrip </a>(2023-05 ~ 2023-06)</li>
     <li><a href="https://github.com/gurcks8989/Crawling-info">공지사항 알리미</a>(2021-06-01 ~ 2021-12-01)</li>
+    <li>Web Watcher with Struts2 -><a href="https://github.com/khnemu11/egovWebWatcherWtihcmmn">Web Watcher 전자정부 프레임워크 마이그레이션 프로젝트</a>(2021-08-01 ~ 2022-12-23)</li>
+    <li><a href="https://github.com/khnemu11/starbucksCloneSpring">메뉴 관리가 들어간 스타벅스 클론 코딩</a>(2022-07-14 ~ 2022-07-30)</li>
     <li><a href="https://github.com/khnemu11/TFT-Helper">TFT Helper 어플리케이션</a>(2021.11.18 ~ 2021.12.11)</li>
     <li><a href="https://github.com/khnemu11/totalCodingTest">알고리즘 풀이</a>(2022-08-17 ~ )</li>
-    <li><a href="https://github.com/khnemu11/starbucksCloneSpring">메뉴 관리가 들어간 스타벅스 클론 코딩</a>(2022-07-14 ~ 2022-07-30)</li>
-    <li>Web Watcher with Struts2 -><a href="https://github.com/khnemu11/egovWebWatcherWtihcmmn">Web Watcher 전자정부 프레임워크 마이그레이션 프로젝트</a>(2021-08-01 ~ 2022-12-23)</li>
-    <li><a href="https://github.com/khnemu11/MyTrip">여행 플래너 - MyTrip </a>(2023-05 ~ 2023-06)</li>
-    <li><a href="https://github.com/khnemu11/withview">화상 채팅 서비스 - WithView</a>(2023-06 ~ 2023-08)</li>
-    <li><a href="https://github.com/khnemu11/inbest">모의 투자 서비스 - InBest</a>(2023-08 ~ 2023-10)</li>
-    <li><a href="https://github.com/khnemu11/Trouble-Shot">트러블슈팅 문서 작성 보조 서비스 - Trouble Shot</a>(2023-10 ~ 2023-11)</li>
   </ul>
 </div>
 <br>
