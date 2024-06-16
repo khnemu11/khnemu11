@@ -78,7 +78,8 @@
 <br>
   <div align=left>
   <h2>✨ 자격증</h2>
-  <ul> 
+  <ul>
+    <li>SQLD (2024-06-21)</li>
     <li>ADsP (2024-06-07)</li>
     <li>정보처리기사 (2023-09-11)</li>
     <li>OPIc IM3 (2022-12-02)</li>
